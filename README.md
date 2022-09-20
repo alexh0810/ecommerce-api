@@ -1,4 +1,4 @@
-# FakeStoreAPI by Roman and Hoan
+# FakeStoreAPI by @rokuzzz and @alexh0810
 ## About
 The [FakeStoreAPI](https://funshopping-api.herokuapp.com/api-docs/) provides free online e-commerce REST API. Can be used to develop front-end projects when placeholder data is needed without running any server-side code. 
 
